@@ -189,4 +189,4 @@ format that your model should output.
 If you have a technical question regarding the dataset, code or publication, please
 create an issue in this repository. This is the fastest way to reach us.
 
-If you would like to share feedback or report concerns, please email us at <natural-questions@google.com>.
+If you would like to share your feedback or report concerns, please email us at <natural-questions@google.com>.
